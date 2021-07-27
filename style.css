@@ -1,0 +1,43 @@
+body {
+    font-size: x-large;
+    font-family: Arial;
+    background-color: #707070;
+}
+
+label {
+    font-weight: bold;  
+}
+
+div {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+input[type="text"] {
+    background: #5452ff;
+    padding: 5px;
+}
+
+p {
+    background: #5452ff;
+    color: #000000;
+    padding: 15px;
+    visibility: hidden;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    width: 750px;
+}
+
+h1 {
+    font-family: impact;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+button {
+    background: #5452ff;
+    margin:auto;
+    width: 300px;
+}
